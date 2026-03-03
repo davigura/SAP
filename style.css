@@ -1,0 +1,14 @@
+.body {
+background-color:white
+
+}
+
+#bloco1 {
+
+background-color: lightblue;
+border-radius: 25px;
+display:flex;
+
+justify-content: space-around;
+
+}
