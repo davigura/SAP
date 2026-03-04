@@ -79,3 +79,39 @@ background-color: rgb(255, 0, 0);
 color: white;
 border-radius: 25px;
  }
+ #bloco2 {
+
+flex-direction: column;
+position: absolute;
+margin-top: 300PX;
+background-color: lightblue;
+border-radius: 25px;
+
+ }
+
+.produtos {
+    display: flex;
+    gap: 100px;
+    padding: 20px;
+    border-radius: 25px;
+
+}
+.amostra {
+    color: black;
+    background-color: white;
+    border-radius: 25px;
+   
+}
+
+.preco {
+    color: lightgreen;
+}
+
+#icon{
+
+height: 300px;
+width: 250px;
+border-radius: 25px;
+
+
+}
