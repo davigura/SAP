@@ -81,17 +81,19 @@ border-radius: 25px;
  }
  #bloco2 {
 
-flex-direction: column;
+
 position: absolute;
 margin-top: 300PX;
 background-color: lightblue;
 border-radius: 25px;
+display: flex;
+flex-wrap: wrap;
 
  }
 
 .produtos {
     display: flex;
-    gap: 100px;
+    gap: 50px;
     padding: 20px;
     border-radius: 25px;
 
@@ -100,6 +102,7 @@ border-radius: 25px;
     color: black;
     background-color: white;
     border-radius: 25px;
+    
    
 }
 
@@ -115,3 +118,19 @@ border-radius: 25px;
 
 
 }
+
+.linhas2 {
+
+    display: flex;
+    background-color: white;
+    gap: 25px;
+     border-radius: 25px;
+     border: 25px solid white;
+     
+}
+.mensagens {
+    background-color: lightblue;
+    border-radius: 25px;
+    padding: 25px;
+}
+
