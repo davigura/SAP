@@ -49,3 +49,33 @@ border-radius: 25px;
 
 
 }
+.pedido{
+margin-left: 300px;
+background-color: aliceblue;
+border-radius: 25px;
+
+}
+ .linhas {
+    display: flex;
+    gap: 25px;
+    background-color: aliceblue;
+    border-radius: 25px;
+ }
+
+ .verde {
+background-color: chartreuse;
+color: white;
+border-radius: 25px;
+ }
+
+  .amarelo {
+background-color: rgb(121, 121, 14);
+color: white;
+border-radius: 25px;
+ }
+
+  .vermelho {
+background-color: rgb(255, 0, 0);
+color: white;
+border-radius: 25px;
+ }
