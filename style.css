@@ -9,9 +9,43 @@ background-color: lightblue;
 border-radius: 25px;
 display:flex;
 height:  250px;
+color: cornflowerblue;
 
 
 }
-#h1{
-color: cornflowerblue;
+.botao_ajuda {
+color: white;
+}
+ 
+.compra_material {
+background-color: blue;
+border-radius: 25px;
+}
+
+.compra_servico {
+background-color: blue;
+border-radius: 25px;
+}
+
+.fluxo_processos {
+background-color: blue;
+border-radius: 25px;
+}
+
+.status_requisicoes {
+background-color: blue;
+border-radius: 25px;
+}
+
+.nao_sei {
+background-color: blue;
+border-radius: 25px;
+}
+
+.fale_comigo {
+color: white;
+background-color: blue;
+border-radius: 25px;
+
+
 }
