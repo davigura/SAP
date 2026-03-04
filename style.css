@@ -134,3 +134,33 @@ border-radius: 25px;
     padding: 25px;
 }
 
+.numeropedidos {
+flex-wrap: wrap;
+flex-direction: column;
+display: flex;
+padding: 20px;
+gap: 25px;
+border-radius: 25px;
+    
+}
+
+#bloco3 {
+position: absolute;
+margin-top: 850PX;
+background-color: lightblue;
+border-radius: 25px;
+display: flex;
+flex-wrap: wrap;
+}
+
+#imagem1 {
+border-radius: 25px;
+}
+
+#imagem2 {
+border-radius: 25px;
+}
+
+#imagem3 {
+border-radius: 25px;
+}
